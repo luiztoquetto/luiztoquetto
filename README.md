@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Welcome, this is my profile!</h1>
  <span font-size="14px">Visit: <a href="https://www.linkedin.com/in/luiz-toquetto/">Linkedin</a></span><br/><br/>
- <img height="135px" width="240px" style="border-radius: 50px;" src="https://cdn.pixabay.com/photo/2020/08/05/20/56/keyboard-5466431_960_720.jpg" />
+ <img height="135px" width="240px" style="border: groove 1em black; border-radius: 2em;" src="https://cdn.pixabay.com/photo/2020/08/05/20/56/keyboard-5466431_960_720.jpg" />
 </div>
 
 <div align="center">
